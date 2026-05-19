@@ -1,1 +1,32 @@
+{
+  "widths": [140,160,180],
 
+  "thicknesses": [2.0,2.2,2.25,2.5],
+
+  "clampingPlates": [
+    "25",
+    "30",
+    "35",
+    "WITHOUT"
+  ],
+
+  "profiles": [
+    {
+      "name":"NV",
+      "image":"gatter_profile_nv"
+    },
+    {
+      "name":"PV",
+      "image":"gatter_profile_pv"
+    },
+    {
+      "name":"PCP",
+      "image":"gatter_profile_pcp"
+    }
+  ],
+
+  "pitches": [
+    "25",
+    "30"
+  ]
+}
