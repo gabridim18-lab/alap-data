@@ -1,1 +1,29 @@
+{
+  "widths":[80,100,110,120,130,140,155,180,206],
 
+  "thicknesses":[0.9,1.0,1.1,1.2,1.47],
+
+  "pitches":[
+    "30",
+    "35",
+    "40",
+    "45",
+    "VARIO35",
+    "VARIO45"
+  ],
+
+  "profiles":[
+    {
+      "name":"PCP",
+      "image":"profile_pcp"
+    },
+    {
+      "name":"VARIO",
+      "image":"profile_vario"
+    },
+    {
+      "name":"PV",
+      "image":"profile_pv"
+    }
+  ]
+}
