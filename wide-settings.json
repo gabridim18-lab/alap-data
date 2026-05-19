@@ -14,16 +14,20 @@
 
   "profiles":[
     {
-      "name":"PCP",
+      "name":"PCP Hardwood",
       "image":"profile_pcp"
     },
     {
-      "name":"VARIO",
-      "image":"profile_vario"
+      "name":"NV",
+      "image":"profile_nv"
     },
     {
-      "name":"PV",
+      "name":"PV Softwood",
       "image":"profile_pv"
+    },
+    {
+      "name":"Winter",
+      "image":"profile_winter"
     }
   ]
 }
